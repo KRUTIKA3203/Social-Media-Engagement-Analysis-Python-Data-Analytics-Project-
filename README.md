@@ -164,39 +164,40 @@ Shows the long-tail distribution of engagement.
 ![Engagement Distribution](6.jpg)
 
 ---
-
-## 7 Brand Performance
-Identifies which brands generate the highest engagement.
-
-![Brand Performance](7.jpg)
-
----
-
-## 8 Product Performance
-Shows top-performing products.
-
-![Product Performance](8.jpg)
-
----
-
-## 9 Campaign Performance
-Highlights the most successful campaigns.
-
-![Campaign Performance](9.jpg)
-
----
-
-## 10 Location Engagement Heatmap
-Shows engagement differences across geographic regions.
-
-![Location Heatmap](10.jpg)
-
----
-
-## 11 Engagement Rate Distribution
+## 11 Hourly Engagement Rate Distribution
 Visualizes how engagement varies across posts.
 
-![Engagement Histogram](11.jpg)
+![Engagement Histogram](7.jpg)
+
+## 8 Brand Performance
+Identifies which brands generate the highest engagement.
+
+![Brand Performance](8.jpg)
+
+---
+
+## 9 Product Performance
+Shows top-performing products.
+
+![Product Performance](9.jpg)
+
+---
+
+## 10 Campaign Performance
+Highlights the most successful campaigns.
+
+![Campaign Performance](10.jpg)
+
+---
+
+## 11 Location Engagement Heatmap
+Shows engagement differences across geographic regions.
+
+![Location Heatmap](11.jpg)
+
+---
+
+
 
 ---
 
