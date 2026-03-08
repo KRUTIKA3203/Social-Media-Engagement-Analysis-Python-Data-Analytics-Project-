@@ -126,77 +126,77 @@ Professional visualizations were created using **Matplotlib** to illustrate insi
 ## 1 Platform Engagement Comparison
 Shows which social media platforms generate the highest engagement.
 
-![Platform Engagement](1.png)
+![Platform Engagement](1.jpg)
 
 ---
 
 ## 2 Sentiment vs Engagement Density
 A hexbin visualization showing engagement concentration across sentiment scores.
 
-![Sentiment Engagement](2.png)
+![Sentiment Engagement](2.jpg)
 
 ---
 
 ## 3 Weekly Engagement Trend
 Displays how engagement varies across days of the week.
 
-![Weekly Engagement](3.png)
+![Weekly Engagement](3.jpg)
 
 ---
 
 ## 4 Emotion Distribution
 Shows the proportion of posts expressing different emotions.
 
-![Emotion Distribution](4.png)
+![Emotion Distribution](4.jpg)
 
 ---
 
 ## 5 Campaign Phase Performance
 Compares engagement across campaign stages.
 
-![Campaign Phase](5.png)
+![Campaign Phase](5.jpg)
 
 ---
 
 ## 6 Engagement Distribution
 Shows the long-tail distribution of engagement.
 
-![Engagement Distribution](6.png)
+![Engagement Distribution](6.jpg)
 
 ---
 
 ## 7 Brand Performance
 Identifies which brands generate the highest engagement.
 
-![Brand Performance](7.png)
+![Brand Performance](7.jpg)
 
 ---
 
 ## 8 Product Performance
 Shows top-performing products.
 
-![Product Performance](8.png)
+![Product Performance](8.jpg)
 
 ---
 
 ## 9 Campaign Performance
 Highlights the most successful campaigns.
 
-![Campaign Performance](9.png)
+![Campaign Performance](9.jpg)
 
 ---
 
 ## 10 Location Engagement Heatmap
 Shows engagement differences across geographic regions.
 
-![Location Heatmap](10.png)
+![Location Heatmap](10.jpg)
 
 ---
 
 ## 11 Engagement Rate Distribution
 Visualizes how engagement varies across posts.
 
-![Engagement Histogram](11.png)
+![Engagement Histogram](11.jpg)
 
 ---
 
